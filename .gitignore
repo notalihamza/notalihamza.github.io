@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbs
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Optional: uncomment if you use a build tool
+# node_modules/
